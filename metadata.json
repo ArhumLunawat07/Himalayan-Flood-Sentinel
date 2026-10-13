@@ -1,0 +1,6 @@
+{
+  "name": "FloodScan AI",
+  "description": "Satellite-based Himalayan flood & debris mapping, damaged road/bridge assessment, cut-off settlement analysis, and rescuer SitRep Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
